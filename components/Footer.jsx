@@ -11,8 +11,8 @@ const Footer = () => {
   return (
     <div className=" mt-8">
       <div class="flex items-center bg-[#262222] w-screen ">
-        <div class="container ml-auto mr-auto flex flex-wrap items-start">
-          <div class="w-full pl-5 lg:pl-2 mb-4 mt-4">
+        <div class="container ml-auto mr-auto flex flex-wrap items-start mt-10">
+          <div class="w-full pl-5 lg:pl-2 mb-8 mt-4">
             <h1 class="text-3xl lg:text-4xl text-[#ab9574] font-extrabold">
               Other Features
             </h1>
@@ -48,7 +48,8 @@ const Footer = () => {
                     GUARANTEED SATISFACTION
                   </h5>
                   <span class="text-xs text-[#ab9574] leading-none font-serif">
-                    100% satisfaction guaranteed, or get your money! fast refund
+                    100% satisfaction guaranteed, or get your money! fasst
+                    refund
                   </span>
                 </div>
               </div>
@@ -107,10 +108,10 @@ const Footer = () => {
               <div class="w-full lg:w-1/2 px-4 py-2">
                 <details class="mb-4">
                   <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                    How Long is this site live?
+                    Can I change the hair you give me?
                   </summary>
 
-                  <span>
+                  <span className="text-[#ab9574]">
                     Laboris qui labore cillum culpa in sunt quis sint veniam.
                     Dolore ex aute deserunt esse ipsum elit aliqua. Aute quis
                     minim velit nostrud pariatur culpa magna in aute.
@@ -118,10 +119,10 @@ const Footer = () => {
                 </details>
                 <details class="mb-4">
                   <summary class="font-semibold bg-gray-200 rounded-md py-2 px-4">
-                    Can I install/upload anything I want on there?
+                    Can I change the hair you give me?
                   </summary>
 
-                  <span>
+                  <span className="text-[#ab9574]">
                     Laboris qui labore cillum culpa in sunt quis sint veniam.
                     Dolore ex aute deserunt esse ipsum elit aliqua. Aute quis
                     minim velit nostrud pariatur culpa magna in aute.
@@ -129,10 +130,10 @@ const Footer = () => {
                 </details>
                 <details class="mb-4">
                   <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                    How can I migrate to another site?
+                    Can I change the hair you give me?
                   </summary>
 
-                  <span>
+                  <span className="text-[#ab9574]">
                     Laboris qui labore cillum culpa in sunt quis sint veniam.
                     Dolore ex aute deserunt esse ipsum elit aliqua. Aute quis
                     minim velit nostrud pariatur culpa magna in aute.
@@ -142,10 +143,10 @@ const Footer = () => {
               <div class="w-full lg:w-1/2 px-4 py-2">
                 <details class="mb-4">
                   <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                    Can I change the domain you give me?
+                    Can I change the hair you give me?
                   </summary>
 
-                  <span class="px-4 py-2">
+                  <span class="px-4 py-2 text-[#ab9574] ">
                     Laboris qui labore cillum culpa in sunt quis sint veniam.
                     Dolore ex aute deserunt esse ipsum elit aliqua. Aute quis
                     minim velit nostrud pariatur culpa magna in aute.
@@ -153,10 +154,10 @@ const Footer = () => {
                 </details>
                 <details class="mb-4">
                   <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                    How many sites I can create at once?
+                    Can I change the hair you give me?
                   </summary>
 
-                  <span class="px-4 py-2">
+                  <span class="px-4 py-2 text-[#ab9574]">
                     Laboris qui labore cillum culpa in sunt quis sint veniam.
                     Dolore ex aute deserunt esse ipsum elit aliqua. Aute quis
                     minim velit nostrud pariatur culpa magna in aute.
@@ -164,10 +165,10 @@ const Footer = () => {
                 </details>
                 <details class="mb-4">
                   <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                    How can I communicate with you?
+                    Can I change the hair you give me?
                   </summary>
 
-                  <span class="px-4 py-2">
+                  <span class="px-4 py-2 text-[#ab9574]">
                     Laboris qui labore cillum culpa in sunt quis sint veniam.
                     Dolore ex aute deserunt esse ipsum elit aliqua. Aute quis
                     minim velit nostrud pariatur culpa magna in aute.
@@ -341,16 +342,15 @@ const Footer = () => {
             <div class="px-4 sm:w-1/2 md:w-1/4 mt-4 md:mt-0">
               <h6 class="font-bold mb-2">Address</h6>
               <address class="not-italic mb-4 text-sm">
-                123 6th St.
-                <br />
-                Melbourne, FL 32904
+                Suite SF09 Olive Alexandra Crescent <br />
+                Wuse 2, Abuja, Nigeria
               </address>
             </div>
             <div class="px-4 sm:w-1/2 md:w-1/4 mt-4 md:mt-0">
               <h6 class="font-bold mb-2">About Us </h6>
               <p class="mb-4 text-sm">
-                LitBatt24 prides itself for offering a comprehensive selection
-                of quality LiFePO4 batteries to our customers.
+                Degolib prides itself for offering a comprehensive selection of
+                quality hair to our customers.
               </p>
             </div>
             <div class="px-4 md:w-1/4 md:ml-auto mt-6 sm:mt-4 md:mt-0">
