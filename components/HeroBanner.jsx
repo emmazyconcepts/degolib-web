@@ -21,9 +21,9 @@ const HeroBanner = ({ HeroBanner }) => {
           className="hero-banner-image h-full"
         /> */}
         <div>
-          <Link href={`/product/${HeroBanner.product}`}>
+          {/* <Link href={`/product/${HeroBanner.product}`}>
             <button className="">{HeroBanner.buttonText}</button>
-          </Link>
+          </Link> */}
           <div className="desc">
             {/* <p className="text-[#ab9574]">UPTO 20% OFF</p> */}
           </div>

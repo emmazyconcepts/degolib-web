@@ -47,70 +47,77 @@ const FooterBanner = ({
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&w=1600"
+              src="https://i.ibb.co/nj1d5hh/1ff00839-faac-4201-bfa0-a59fb16ac753.jpgs"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/6263568/pexels-photo-6263568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/wdJBYkD/3f97c7a0-bf9c-4d79-ad56-c5957dbdb637.jpg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/3026364/pexels-photo-3026364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/WGxxJtd/71a10549-c287-4620-9888-5f3810b276a7.jpg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/10343729/pexels-photo-10343729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/cNDKr0K/88b1891f-0d68-4aa7-94fc-ad412ca359ce.jpg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/13860053/pexels-photo-13860053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/ct0D2wt/270abe64-c2ef-4598-bd7f-6ca5fd6a40d5.jpg1"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/8576739/pexels-photo-8576739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/7jwsJ1r/da8a4670-2ac3-4e36-a828-5fc08875b529.jpg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/1743367/pexels-photo-1743367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/YPgxnD6/dd3c4c43-1866-40fa-bbed-6442a7ec5475.jpg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/5920021/pexels-photo-5920021.jpeg?auto=compress&cs=tinysrgb&w=1600"
+              src="https://i.ibb.co/DWXPwjP/eb802db2-495d-47eb-83d5-2ccae9dc433b.jpg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/12805075/pexels-photo-12805075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/jyYsH3w/ecb29020-e12f-40ee-92ac-03261d48662a.jpgg"
               alt="mountain_image"
             />
           </div>
           <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
             <img
               class="w-full h-full object-cover"
-              src="https://images.pexels.com/photos/547115/pexels-photo-547115.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://i.ibb.co/7jwsJ1r/da8a4670-2ac3-4e36-a828-5fc08875b529.jpg"
+              alt="mountain_image"
+            />
+          </div>
+          <div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
+            <img
+              class="w-full h-full object-cover"
+              src="https://i.ibb.co/DWXPwjP/eb802db2-495d-47eb-83d5-2ccae9dc433b.jpg"
               alt="mountain_image"
             />
           </div>
