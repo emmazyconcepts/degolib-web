@@ -118,6 +118,7 @@ span.text-red {
 }
 .product-image {
   border-radius: 15px;
+  height: 250px;
   background-color: #ebebeb;
   transform: scale(1, 1);
   transition: transform 0.5s ease;
@@ -470,7 +471,7 @@ span.text-red {
   font-weight: 700;
   font-size: 26px;
   margin-top: 30px;
-  color: #f02d34;
+  color: #fff;
 }
 .price .old-price,
 .product-price .old-price,
@@ -548,7 +549,7 @@ span.text-red {
 .maylike-products-wrapper h2 {
   text-align: center;
   margin: 50px;
-  color: #324d67;
+  color: #ffff;
 
   font-size: 28px;
 }
