@@ -184,14 +184,14 @@ const Footer = () => {
         <div class="container mx-auto px-4">
           <div class="sm:flex sm:flex-wrap sm:-mx-4 md:py-4">
             <div class="px-4 sm:w-1/2 md:w-1/4 xl:w-1/6">
-              <h5 class="text-xl font-bold mb-6">Volts</h5>
+              <h5 class="text-xl font-bold mb-6">Categorys</h5>
               <ul class="list-none footer-links">
                 <li class="mb-2">
                   <a
                     href="/battery/24volt"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
-                    24v batteries{" "}
+                    Faux Locs
                   </a>
                 </li>
                 <li class="mb-2">
@@ -199,7 +199,7 @@ const Footer = () => {
                     href="/battery/48volt"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
-                    48v batteries{" "}
+                    Passion Twist
                   </a>
                 </li>
                 <li class="mb-2">
@@ -207,7 +207,7 @@ const Footer = () => {
                     href="/battery/512volt"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
-                    512v batteries{" "}
+                    Spiral Curls
                   </a>
                 </li>
                 <li class="mb-2">
@@ -215,7 +215,7 @@ const Footer = () => {
                     href="/battery/380volt"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
-                    380v batteries{" "}
+                    Deep Twist
                   </a>
                 </li>
               </ul>
@@ -337,7 +337,8 @@ const Footer = () => {
 
           <div class="sm:flex sm:flex-wrap sm:-mx-4 mt-6 pt-6 sm:mt-12 sm:pt-12 border-t">
             <div class="sm:w-full px-4 md:w-1/6">
-              <strong>Contact email</strong>
+              <strong>Contact</strong>
+              <p class="mb-4 text-sm">08138832877, 09122264731</p>
             </div>
             <div class="px-4 sm:w-1/2 md:w-1/4 mt-4 md:mt-0">
               <h6 class="font-bold mb-2">Address</h6>
