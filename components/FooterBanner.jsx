@@ -36,7 +36,7 @@ const FooterBanner = ({
   return (
     <div
       id="app"
-      class="max-w-screen-lg mx-auto px-4 md:px-8 py-12 transition-all duration-500 ease-linear"
+      class="max-w-screen-lg mx-auto px-4 md:px-8 py-12 transition-all duration-500 ease-linear mt-12"
     >
       <h2 className="text-[#ab9574] text-3xl lg:text-4xl font-serif mb-12">
         Some of our works
