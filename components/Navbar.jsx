@@ -91,17 +91,23 @@ const Navbar = () => {
               md:pt-0"
             >
               <li>
-                <a class="md:p-4 py-2 block text-[#ab9574]" href="#">
+                <a class="md:p-4 py-2 block text-[#ab9574]" href="/hair/wig">
                   Wigs
                 </a>
               </li>
               <li>
-                <a class="md:p-4 py-2 block text-[#ab9574]" href="#">
+                <a
+                  class="md:p-4 py-2 block text-[#ab9574]"
+                  href="/hair/newproduct"
+                >
                   New Products
                 </a>
               </li>
               <li>
-                <a class="md:p-4 py-2 block text-[#ab9574]" href="#">
+                <a
+                  class="md:p-4 py-2 block text-[#ab9574]"
+                  href="/hair/haircare"
+                >
                   Haircare
                 </a>
               </li>

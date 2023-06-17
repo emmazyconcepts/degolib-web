@@ -6,10 +6,10 @@ function index() {
       <section class="text-gray-600 body-font relative">
         <div class="container px-5 py-24 mx-auto">
           <div class="flex flex-col text-center w-full mb-12">
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
+            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">
               Contact Us
             </h1>
-            <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
+            <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-white">
               Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
               gentrify.
             </p>
@@ -18,7 +18,7 @@ function index() {
             <div class="flex flex-wrap -m-2">
               <div class="p-2 w-1/2">
                 <div class="relative">
-                  <label for="name" class="leading-7 text-sm text-gray-600">
+                  <label for="name" class="leading-7 text-sm text-white">
                     Name
                   </label>
                   <input
@@ -31,7 +31,7 @@ function index() {
               </div>
               <div class="p-2 w-1/2">
                 <div class="relative">
-                  <label for="email" class="leading-7 text-sm text-gray-600">
+                  <label for="email" class="leading-7 text-sm text-white">
                     Email
                   </label>
                   <input
@@ -44,7 +44,7 @@ function index() {
               </div>
               <div class="p-2 w-full">
                 <div class="relative">
-                  <label for="message" class="leading-7 text-sm text-gray-600">
+                  <label for="message" class="leading-7 text-sm text-white">
                     Message
                   </label>
                   <textarea
@@ -55,7 +55,7 @@ function index() {
                 </div>
               </div>
               <div class="p-2 w-full">
-                <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                <button class="flex mx-auto text-white bg-[#ab9574] border-0 py-2 px-8 focus:outline-none hover:bg-[#ab9574] rounded text-lg">
                   Button
                 </button>
               </div>

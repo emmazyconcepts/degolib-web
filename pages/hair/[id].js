@@ -12,8 +12,8 @@ export default function id({ products, bannerData }) {
       {" "}
       <div className="products-heading">
         {" "}
-        <h2>Best Selling Battery</h2>
-        <p>{id}</p>
+        <h2 className=" text-[#ab9574]">Best Selling Hairs</h2>
+        <p className="text-[#ab9574]">{id}</p>
       </div>
       <div className="products-container">
         {products?.map((product) => (

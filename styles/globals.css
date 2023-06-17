@@ -111,7 +111,7 @@ span.text-red {
   cursor: pointer;
   transform: scale(1, 1);
   transition: transform 0.5s ease;
-  color: #324d67;
+  color: #ab9574;
 }
 .product-card:hover {
   transform: scale(1.1, 1.1);
@@ -129,7 +129,7 @@ span.text-red {
 .product-price {
   font-weight: 800;
   margin-top: 6px;
-  color: black;
+  color: white;
 }
 
 .hero-banner-container {

@@ -188,7 +188,7 @@ const Footer = () => {
               <ul class="list-none footer-links">
                 <li class="mb-2">
                   <a
-                    href="/battery/24volt"
+                    href="/hair/Faux"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     Faux Locs
@@ -196,7 +196,7 @@ const Footer = () => {
                 </li>
                 <li class="mb-2">
                   <a
-                    href="/battery/48volt"
+                    href="/hair/48volt"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     Passion Twist
@@ -204,7 +204,7 @@ const Footer = () => {
                 </li>
                 <li class="mb-2">
                   <a
-                    href="/battery/512volt"
+                    href="/hair/Spiral"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     Spiral Curls
@@ -212,7 +212,7 @@ const Footer = () => {
                 </li>
                 <li class="mb-2">
                   <a
-                    href="/battery/380volt"
+                    href="/hair/Deep"
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     Deep Twist
@@ -225,7 +225,7 @@ const Footer = () => {
               <ul class="list-none footer-links">
                 <li class="mb-2">
                   <a
-                    href={"/battery/todaydeal"}
+                    href={"/hair/todaydeal"}
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     Todays deal
@@ -233,7 +233,7 @@ const Footer = () => {
                 </li>
                 <li class="mb-2">
                   <a
-                    href={"/battery/newproduct"}
+                    href={"/hair/newproduct"}
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     New Products
@@ -241,7 +241,7 @@ const Footer = () => {
                 </li>
                 <li class="mb-2">
                   <a
-                    href={"/battery/offers"}
+                    href={"/hair/offers"}
                     class="border-b border-solid border-transparent hover:border-[#f50d01] hover:text-[#f50d01]"
                   >
                     Offers{" "}
